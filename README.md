@@ -4,7 +4,7 @@ Light-Weight Fixed Wing Drone can be launched easily by using our bare hands. Bu
 
 The launcher we have designed is shown in figure. As our first objective, the launcher has been designed very modular and the design could be adjusted for both manual and automatic launching. For manual launching, one end of bungee chord is attached with slider, the bungee chord gets support from pulley and then the other end of bungee chord is attached with base. Then the slider is pulled downward using a manual winch. When the slider is down, the slider is locked using a simple lever system. After the slider is locked, the manual winch is disengaged. During this condition, the bungee chord is in high tension. The drone is attached on the slider. A system to attach drone with slider is yet to be designed. The concept has already been developed, the only thing remaining is accurate dimensions or measurements which completely depends on size of drone.
 
-![](F:\Job\Slider new design\New Design in Solidworks\Capture.PNG)
+![](Capture.PNG)
 
 Now to release a slider, we have to press the longer end of lever through our feet. For automatic launching, one end of rope is attached with slider, a rope gets support from pulley and other end of rope is attached with winch. That winch is coupled with high speed & high torque motor through coupler and / or clutch. For our recent purpose, we are only focusing on manual launching using bungee chord. The motor and winch could be added on design later on modularly.
 
